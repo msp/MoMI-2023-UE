@@ -14,6 +14,14 @@
 		{
 			"Name": "OSC",
 			"Enabled": true
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": false
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
 		}
 	]
 }
