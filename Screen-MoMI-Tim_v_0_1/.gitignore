@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # Built Android binaries
 Packaged/*
+
+# Unused samples
+32761*
+10176*
