@@ -33,6 +33,10 @@
 		{
 			"Name": "Metasound",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
